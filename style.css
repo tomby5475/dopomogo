@@ -1,0 +1,46 @@
+.maintaince_body {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+.nav_logo {
+    margin: 20px 0;
+    margin-bottom: 120px;
+}
+.maintaince_screen {
+    display: flex;
+    align-content: space-between;
+    flex-direction: column;
+    align-items: center;
+}
+.maintaince_screen img {
+    width: 327.22px;
+    height: 274.12px;
+}
+.maintaince_screen h3 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #163D71;
+    margin-bottom: 0;
+}
+.maintaince_screen p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #163D71;
+    margin-bottom: 150px;
+}
+.maintaince_footer p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #163D71;
+}
